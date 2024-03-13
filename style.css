@@ -89,6 +89,11 @@ body {
     text-transform: uppercase;
 }
 
+. contador{
+    font-size: 20px;
+    text-align: center;
+}
+
 .contador{
     display:flex;
     justify-content: center;
