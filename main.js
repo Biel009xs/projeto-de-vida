@@ -33,3 +33,4 @@ contadores[0].textContent = calculatempo(tempoObejtivo1);
  horas %= 24;
 
 return dias + " dias " + horas + " horas " + minutos + " minutos " + segundos + " segundos ";
+ }
