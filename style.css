@@ -33,7 +33,7 @@ body {
 }
 
 .titulo-principal span {
-    color: var(--azul);
+    color: var(--branco);
 }
 
 
@@ -63,7 +63,7 @@ body {
 
 .botao.ativo{
     background-color: var(--botao-ativo);
-    border-bottom: 4px solid var(--azul);
+    border-bottom: 4px solid var(--branco);
 }
 
 .abas-textos{
